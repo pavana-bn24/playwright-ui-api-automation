@@ -32,7 +32,7 @@ It covers both UI and API testing with a structured and maintainable approach us
 - Playwright
 - JavaScript (Node.js)
 
-  ## 📊 Test Coverage
+## Test Coverage
 
 ### UI Tests
 - Navigation to Automation section
