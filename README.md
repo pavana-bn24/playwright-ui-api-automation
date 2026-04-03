@@ -50,4 +50,4 @@ It covers both UI and API testing with a structured and maintainable approach us
 - Selectors may need updates if UI changes
 
 
-npx playwright test
+
